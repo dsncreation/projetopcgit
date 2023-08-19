@@ -32,5 +32,6 @@ ul{
 }
 .bt-link:hover{
     background-color: #09f;
-    padding: 10px
+    padding: 10px;
+    border-radius: 10px
 }
