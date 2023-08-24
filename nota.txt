@@ -1,0 +1,2 @@
+rm -f .git/index.lock
+serve para remover o index.lock
