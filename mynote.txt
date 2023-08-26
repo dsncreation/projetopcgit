@@ -1,0 +1,1 @@
+Para baixar o arquivo, posso usar o git pull
