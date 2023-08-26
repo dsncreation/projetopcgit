@@ -4,3 +4,5 @@ serve para remover o index.lock
 
 rm -f .git/index.lock
 comando usado para remover o index.lock no caso de uso de comandos simultaneos e erros provenientes desta ação
+
+git pull é para fazer uma atualização, sendo que os arquivos criados diretamente são copiados e os criados localmente são postados
